@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @tollycollins
 - 👀 I’m interested in Audio Programming and Deep Learning
-- 🌱 I’m currently learning how to create better performing DL models in PyTorch
-- 💞️ I’m looking to collaborate on Audio Programming, Deep Learning, EdTech
+- Currently working in R&D at Image-Line
+
 - 📫 How to reach me: 
--       email: tollycollins@gmail.com
+-       personal email: tollycollins@gmail.com
+-       work email: tolly@image-line.com
 -       LinkedIn: https://www.linkedin.com/in/tolly-collins-546081222/
 
 <!---
